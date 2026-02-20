@@ -32,18 +32,36 @@ So I came to the conclusion that React was my favorite library - I created mobil
 ### Badges
 
 <b>My GitHub Stats</b>
-<div style="text-align:center;">   
-  <a href="http://www.github.com/Gonerr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonerr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex; flex-direction: column; gap: '2rem'; justify-content: center;">   
   
-  ![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Gonerr)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  <!-- GitHub Streak Stats -->
+  <a href="http://www.github.com/Gonerr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonerr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonerr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?user=Gonerr" />
+  </a>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gonerr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonerr&layout=compact" />
+  </a>
   
-  [![codewars](https://www.codewars.com/users/Gonerr/badges/large)](https://www.codewars.com/users/Gonerr)   
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gonerr&theme=onedark" />
+  </a>
   
-  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <!-- CodeWars Badge -->
+  <a href="https://www.codewars.com/users/Gonerr">
+    <img src="https://www.codewars.com/users/Gonerr/badges/large" />
+  </a>
+  
+  <!-- GitHub Quotes -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  
 </div>
 
 
