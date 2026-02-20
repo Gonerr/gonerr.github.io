@@ -31,50 +31,29 @@ So I came to the conclusion that React was my favorite library - I created mobil
 
 ### Badges
 
-### Badges
-
 <b>My GitHub Stats</b>
-<div style="text-align:center;">   
-  
+<div align="center">   
+
+  <a href="https://www.codewars.com/users/Gonerr">
+    <img src="https://www.codewars.com/users/Gonerr/badges/large" />
+  </a>
+  <br>
   <!-- GitHub Streak Stats -->
   <a href="http://www.github.com/Gonerr">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonerr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  
-  <br><br>
-  
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Gonerr&theme=github" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonerr&layout=compact&theme=dark" />
-  </a>
-  
-  <br><br>
-  
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gonerr&theme=onedark" />
-  </a>
-  
-  <br><br>
-  
-  <!-- CodeWars Badge -->
-  <a href="https://www.codewars.com/users/Gonerr">
-    <img src="https://www.codewars.com/users/Gonerr/badges/large" />
-  </a>
-  
-  <br><br>
+
+  <br>
   
   <!-- GitHub Quotes -->
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   </a>
+
+   <br>
+
+  <!-- GitHub Activity Graph -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gonerr&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
